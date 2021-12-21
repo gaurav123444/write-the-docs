@@ -26,4 +26,4 @@ You can follow these general instructions to make a website with GitHub Pages.
 4. Merge files into the master branch.
 5. Go to the repository settings and enable GitHub Pages on the master branch.
 6. Open browser to the page.
-ithis is a image https://media-exp1.licdn.com/dms/image/C4E0BAQFXjRH_tWRAHQ/company-logo_100_100/0/1519910352590?e=1648080000&v=beta&t=Okun1Ii7b8qMcH7uBo7ZpbJUvTxHUGWObCl69SxYclQ
+![this is a image] (https://media-exp1.licdn.com/dms/image/C4E0BAQFXjRH_tWRAHQ/company-logo_100_100/0/1519910352590?e=1648080000&v=beta&t=Okun1Ii7b8qMcH7uBo7ZpbJUvTxHUGWObCl69SxYclQ).
